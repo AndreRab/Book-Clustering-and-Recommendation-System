@@ -1,3 +1,3 @@
-# Book-Clustering-and-Recommendation-System
+# Book clustering and recommendation system
 
 This repository contains a comprehensive [research file](https://github.com/AndreRab/Book-Clustering-and-Recommendation-System) that details every aspect of the project. In it, you will find methodologies, analyses, and results related to the development of a system designed to cluster books and recommend them to users based on their preferences. The project utilizes advanced machine learning algorithms for clustering and sophisticated techniques for generating personalized book recommendations. This document serves as both a technical guide and a report on the project’s outcomes.
